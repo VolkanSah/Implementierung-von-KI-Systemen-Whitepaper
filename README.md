@@ -20,7 +20,7 @@ Aktuell gibt es viele vermeintliche Sicherheitskonzepte für Unternehmen oder ko
 - [Entwicklungsprozess](Entwicklungsprozess.md) : Best Practices für die Entwicklung von KI-Systemen, einschließlich des Einsatzes von Tests, der Verwendung von Code-Reviews und der Dokumentation von Sicherheitsmaßnahmen.
 - [Schulung der Benutzer](Schulung.md) : Die Schulung von Benutzern im Umgang mit KI-Systemen und der Bedeutung von IT-Sicherheit.
 - [Regulierung](Regulierung.md) : Die Bedeutung von Regulierung und Gesetzen im Zusammenhang mit der Entwicklung und Nutzung von KI.
-- [Konkrete Beispiele](Beispiele.md) : Konkrete Beispiele für KI-Sicherheitsprobleme und wie sie vermieden oder behoben werden können. ]
+- [Konkrete Beispiele](Beispiele.md) : Konkrete Beispiele für KI-Sicherheitsprobleme und wie sie vermieden oder behoben werden können.
 
 
 ## WARNUNG!
