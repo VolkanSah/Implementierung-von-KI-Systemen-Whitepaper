@@ -23,6 +23,16 @@ Aktuell gibt es viele vermeintliche Sicherheitskonzepte für Unternehmen oder ko
 - [Konkrete Beispiele](Beispiele.md) : Konkrete Beispiele für KI-Sicherheitsprobleme und wie sie vermieden oder behoben werden können.
 
 
+## Hallo Leute,
+
+wenn ihr dieses Whitepaper nützlich findet und euer Wissen auch frei zur Verfügung stellen wollt, würde ich mich über eine Diskussion und eure Beiträge sehr freuen. Gerne könnt ihr mit mir gemeinsam dieses Whitepaper pflegen, um Betrügern keine Chance zu geben, unwissende Firmen oder Menschen auszunutzen. Eine ausführliche Erklärung dessen, was wir hier eigentlich alle auf Github und Co. machen, fehlt meiner Meinung nach schon lange. Lasst uns ein wenig mehr Gerechtigkeit in die Welt bringen, denn wir sehen, dass sich die Betrüger auf die KI-Technologie stürzen.
+
+Wir, die wir seit Jahren und Jahrzehnten immer wieder der freien Welt unsere Konzepte schenken, können diese erst dann ausnutzen, wenn wir darauf achten, dass unsere Accounts einen Mehrwert für unsere Gesellschaft haben. Auch wenn wir unsere Tricks und Tipps verraten, so gelangen die Menschen nicht an die Falschen und finden den Weg zu dir oder zu anderen, die ihr Wissen ehrlich teilen.
+
+Ich würde mich freuen, wenn ihr meine Idee unterstützt. Es ärgert mich wirklich, wenn ich YouTube öffne und mir von einem Unwissenden erklären lassen soll, wie meine Arbeit geht - und das immer und immer wieder. Egal welche Blocker du benutzt, der Unsinn ist schneller!"
+
+
+
 ## WARNUNG!
 Als Autor dieses Whitepapers ist es mir wichtig, meine Rechte zu schützen und sicherzustellen, dass es nicht für unethische oder kommerzielle Zwecke genutzt wird. Die freie Nutzung dieses Whitepapers ist für Schulungszwecke in öffentlichen Schulen und Universitäten (nicht in privaten) sowie für kleine Unternehmen bis maximal 10 Personen gestattet. Jegliche Art von kommerzieller Nutzung oder Verbreitung ist ausdrücklich untersagt und wird strafrechtlich verfolgt! Ich möchte betonen, dass dieses Whitepaper ausschließlich für den Bildungsbereich bestimmt ist und nicht für Werbezwecke oder zur Gewinnerzielung genutzt werden darf. Ich behalte mir das Recht vor, rechtliche Schritte gegen die unautorisierte Nutzung dieses Whitepapers einzuleiten.
 ### Copyright 
