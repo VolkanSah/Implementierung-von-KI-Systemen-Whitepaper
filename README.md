@@ -22,6 +22,14 @@ Aktuell gibt es viele vermeintliche Sicherheitskonzepte für Unternehmen oder ko
 - [Regulierung](Regulierung.md) : Die Bedeutung von Regulierung und Gesetzen im Zusammenhang mit der Entwicklung und Nutzung von KI.
 - [Konkrete Beispiele](Beispiele.md) : Konkrete Beispiele für KI-Sicherheitsprobleme und wie sie vermieden oder behoben werden können.
 
+## Hallo Leute,
+
+Wenn ihr dieses Whitepaper nützlich findet und euer Wissen auch frei zur Verfügung stellen wollt, würde ich mich über eine Diskussion und eure Beiträge sehr freuen. Gerne könnt ihr mit mir gemeinsam dieses Whitepaper pflegen, um Betrügern keine Chance zu geben, unwissende Firmen oder Menschen auszunutzen. Eine ausführliche Erklärung dessen, was wir hier eigentlich alle auf Github und Co. machen, fehlt meiner Meinung nach schon lange. Lasst uns ein wenig mehr Gerechtigkeit in die Welt bringen, denn wir sehen, dass sich die Betrüger auf die KI-Technologie stürzen.
+
+Wir, die wir seit Jahren und Jahrzehnten immer wieder der freien Welt unsere Konzepte schenken, können diese erst dann ausnutzen, wenn wir darauf achten, dass unsere Accounts einen Mehrwert für unsere Gesellschaft haben. Auch wenn wir unsere Tricks und Tipps verraten, so gelangen die Menschen nicht an die Falschen und finden den Weg zu dir oder zu anderen, die ihr Wissen ehrlich teilen.
+
+Ich würde mich freuen, wenn ihr meine Idee unterstützt. Es ärgert mich wirklich, wenn ich YouTube öffne und mir von einem Unwissenden erklären lassen soll, wie meine Arbeit geht - und das immer und immer wieder. Egal welche Blocker du benutzt, der Unsinn ist schneller!"
+
 ## Unterstützung:
 Wenn Sie dieses Projekt nützlich finden und es unterstützen möchten, gibt es mehrere Möglichkeiten, dies zu tun:
 
@@ -33,17 +41,6 @@ Wenn Sie dieses Projekt nützlich finden und es unterstützen möchten, gibt es 
 **Wenn Sie meine Arbeit schätzen und diese unterstützen möchten, besuchen Sie bitte meine [GitHub Sponsor-Seite](https://github.com/sponsors/volkansah). Jede Art von Unterstützung ist herzlich willkommen und hilft mir dabei, meine Arbeit weiter zu verbessern und zu erweitern**
 
 Vielen Dank für Ihre Unterstützung!"
-
-
-## Hallo Leute,
-
-Wenn ihr dieses Whitepaper nützlich findet und euer Wissen auch frei zur Verfügung stellen wollt, würde ich mich über eine Diskussion und eure Beiträge sehr freuen. Gerne könnt ihr mit mir gemeinsam dieses Whitepaper pflegen, um Betrügern keine Chance zu geben, unwissende Firmen oder Menschen auszunutzen. Eine ausführliche Erklärung dessen, was wir hier eigentlich alle auf Github und Co. machen, fehlt meiner Meinung nach schon lange. Lasst uns ein wenig mehr Gerechtigkeit in die Welt bringen, denn wir sehen, dass sich die Betrüger auf die KI-Technologie stürzen.
-
-Wir, die wir seit Jahren und Jahrzehnten immer wieder der freien Welt unsere Konzepte schenken, können diese erst dann ausnutzen, wenn wir darauf achten, dass unsere Accounts einen Mehrwert für unsere Gesellschaft haben. Auch wenn wir unsere Tricks und Tipps verraten, so gelangen die Menschen nicht an die Falschen und finden den Weg zu dir oder zu anderen, die ihr Wissen ehrlich teilen.
-
-Ich würde mich freuen, wenn ihr meine Idee unterstützt. Es ärgert mich wirklich, wenn ich YouTube öffne und mir von einem Unwissenden erklären lassen soll, wie meine Arbeit geht - und das immer und immer wieder. Egal welche Blocker du benutzt, der Unsinn ist schneller!"
-
-
 
 ## WARNUNG!
 Als Autor dieses Whitepapers lege ich (und hoffentlich bald wir) großen Wert auf den Schutz unserer Rechte und darauf, dass das Dokument nicht für unethische oder kommerzielle Zwecke genutzt wird. Die kostenlose Nutzung dieses Whitepapers ist nur in folgenden Kontexten gestattet:
