@@ -22,6 +22,18 @@ Aktuell gibt es viele vermeintliche Sicherheitskonzepte für Unternehmen oder ko
 - [Regulierung](Regulierung.md) : Die Bedeutung von Regulierung und Gesetzen im Zusammenhang mit der Entwicklung und Nutzung von KI.
 - [Konkrete Beispiele](Beispiele.md) : Konkrete Beispiele für KI-Sicherheitsprobleme und wie sie vermieden oder behoben werden können.
 
+## Unterstützung:
+Wenn Sie dieses Projekt nützlich finden und es unterstützen möchten, gibt es mehrere Möglichkeiten, dies zu tun:
+
+- Geben Sie dem Projekt einen Stern: Wenn Sie das Whitepaper hilfreich finden, geben Sie ihm bitte einen Stern auf GitHub. Dies hilft, das Projekt sichtbarer zu machen und mehr Leute zu erreichen.
+- Werden Sie Follower: Wenn Sie an Updates und zukünftigen Verbesserungen interessiert sind, folgen Sie bitte meinem GitHub-Account. So bleiben Sie immer auf dem Laufenden.
+- Erfahren Sie mehr über meine Arbeit: Ich lade Sie ein, sich meine gesamte Arbeit auf GitHub anzuschauen und meine Entwicklerseite volkansah.github.io zu besuchen. Hier finden Sie ausführliche Informationen über mich und meine Projekte.
+- Teilen Sie das Projekt: Wenn Sie jemanden kennen, der von diesem Projekt profitieren könnte, teilen Sie es bitte. Je mehr Leute es nutzen können, desto besser.
+
+**Wenn Sie meine Arbeit schätzen und diese unterstützen möchten, besuchen Sie bitte meine [GitHub Sponsor-Seite](https://github.com/sponsors/volkansah). Jede Art von Unterstützung ist herzlich willkommen und hilft mir dabei, meine Arbeit weiter zu verbessern und zu erweitern**
+
+Vielen Dank für Ihre Unterstützung!"
+
 
 ## Hallo Leute,
 
