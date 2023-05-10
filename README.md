@@ -1,4 +1,4 @@
-# KI-Whitpaper für mehr Sicherheit
+# Whitepaper: Implementierung von-KI Systemen
 ###### copyright [S. Volkan Kücükbudak](https://github.com/volkansah)
 
 Herzlich Willkommen zum AI-Whitpaper für eine sichere Implementierung von Künstlicher Intelligenz (KI) in Webanwendungen. Immer mehr Unternehmen nutzen KI, um ihre Anwendungen und Services zu verbessern. KI-Modelle wie ChatGPT von OpenAI sind eine der fortschrittlichsten KI-Technologien auf dem Markt und haben das Potenzial, unsere Art der Interaktion mit Maschinen und Computern für immer zu verändern. Doch die Implementierung von KI-Systemen birgt auch große Risiken für die Sicherheit von sensiblen Daten und Systemen. In diesem Whitepaper geben wir Ihnen die notwendigen Best Practices an die Hand, um Ihre KI-Integration sicher zu gestalten und mögliche Risiken zu minimieren. Wir betonen dabei, dass KI ein tolles System ist, das uns viel Potenzial bietet, die Menschheit zu retten, wenn es anständig und sicher genutzt wird.
