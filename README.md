@@ -41,7 +41,7 @@ Ich würde mich freuen, wenn ihr meine Idee unterstützt. Es ärgert mich wirkli
 ## Unterstützung
 Wenn Sie dieses Projekt nützlich finden und es unterstützen möchten, gibt es mehrere Möglichkeiten, dies zu tun:
 
-- Geben Sie dem Projekt einen ⭐: Wenn Sie das Whitepaper hilfreich finden, geben Sie ihm bitte einen Stern auf GitHub. Dies hilft, das Projekt sichtbarer zu machen und mehr Leute zu erreichen.
+- Geben Sie dem Projekt einen ⭐ ,wenn Sie das Whitepaper hilfreich finden, geben Sie ihm bitte einen Stern auf GitHub. Dies hilft, das Projekt sichtbarer zu machen und mehr Leute zu erreichen.
 - Werden Sie Follower: Wenn Sie an Updates und zukünftigen Verbesserungen interessiert sind, folgen Sie bitte meinem [GitHub-Account](https://github.com/volkansah). So bleiben Sie immer auf dem Laufenden.
 - Erfahren Sie mehr über meine Arbeit: Ich lade Sie ein, sich meine gesamte Arbeit auf GitHub anzuschauen und meine Entwicklerseite https://volkansah.github.io zu besuchen. Hier finden Sie ausführliche Informationen über mich und meine Projekte.
 - Teilen Sie das Projekt: Wenn Sie jemanden kennen, der von diesem Projekt profitieren könnte, teilen Sie es bitte. Je mehr Leute es nutzen können, desto besser.
