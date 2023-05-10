@@ -42,7 +42,6 @@ Hier sind einige bewährte Methoden, um Schwachstellen in KI-Systemen zu identif
 Diese Sicherheitsmaßnahmen sollten als Teil einer umfassenden Sicherheitsstrategie implementiert werden, um das KI-System vor Angriffen und unbefugtem Zugriff zu schützen. Es ist auch wichtig, dass alle Benutzer des KI-Systems über die geltenden Sicherheitsrichtlinien informiert werden und regelmäßig geschult werden, um sicherzustellen, dass sie sich bewusst sind, wie sie dazu beitragen können, das System sicher zu halten.
 
 
-Du magst meine Arbeit? Dann Gib mir ein :star: oder werde ein ['Sponsor'](https://github.com/sponsors/volkansah) meiner Arbeit, vergiss nicht mir zu folgen, mein Account ist seit dem Jahr 2023 öffentlich nicht das du was verpasst. :smile:
 
 [Zurück zur übersicht](README.md#Themen)
 
