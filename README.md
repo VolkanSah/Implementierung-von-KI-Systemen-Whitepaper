@@ -3,9 +3,9 @@
 ## Inhalt
 - [Anlass für dieses Whitepaper](#Der-Anlass-für-dieses-Whitepaper)
 - [Wichtige Warnung für Sie](#Achtung)
-- [Behandelte Themenin diesem Whitepaper](#Themen)
+- [Behandelte Themen](#Themen)
 - [Eure Hilfe ist gefragt](#Hallo-Leute)
-- [Unterstützung](#Unterstützung)
+- [Eure Unterstützung](#Unterstützung)
 - [Lizenzbedingungen](#Lizenz)
 
 ### Herzlich willkommen zum AI-Whitpaper für eine sichere Implementierung von Künstlicher Intelligenz (KI). 
