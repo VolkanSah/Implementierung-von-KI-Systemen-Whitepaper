@@ -51,5 +51,5 @@ Als Autor dieses Whitepapers ist es mir wichtig, meine Rechte zu schützen und s
 ### Credits
 [© Volkan Kücükbudak](https://github.com/volkansah)
 
-Orginal Quelle: https://github.com/VolkanSah/KI-Whitepaper/blob/main/deutsch/Sicherheit-von-KI-Systemen.md
+Orginal Quelle: https://github.com/VolkanSah/Implementierung-von-KI-Systemen-Whitepaper/blob/main/Sicherheit-von-KI-Systemen.md
 
