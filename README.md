@@ -26,6 +26,7 @@ Aktuell gibt es viele vermeintliche Sicherheitskonzepte für Unternehmen oder ko
 ## WARNUNG!
 Als Autor dieses Whitepapers ist es mir wichtig, meine Rechte zu schützen und sicherzustellen, dass es nicht für unethische oder kommerzielle Zwecke genutzt wird. Die freie Nutzung dieses Whitepapers ist für Schulungszwecke in öffentlichen Schulen und Universitäten (nicht in privaten) sowie für kleine Unternehmen bis maximal 10 Personen gestattet. Jegliche Art von kommerzieller Nutzung oder Verbreitung ist ausdrücklich untersagt und wird strafrechtlich verfolgt! Ich möchte betonen, dass dieses Whitepaper ausschließlich für den Bildungsbereich bestimmt ist und nicht für Werbezwecke oder zur Gewinnerzielung genutzt werden darf. Ich behalte mir das Recht vor, rechtliche Schritte gegen die unautorisierte Nutzung dieses Whitepapers einzuleiten.
 ### Copyright 
+bis jetzt:
 
 [© Volkan Kücükbudak](https://github.com/volkansah)
 
