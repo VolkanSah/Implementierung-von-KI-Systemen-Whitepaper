@@ -34,7 +34,15 @@ Ich würde mich freuen, wenn ihr meine Idee unterstützt. Es ärgert mich wirkli
 
 
 ## WARNUNG!
-Als Autor dieses Whitepapers ist es mir (hoffentlich bald uns) wichtig, meine Rechte zu schützen und sicherzustellen, dass es nicht für unethische oder kommerzielle Zwecke genutzt wird. Die freie Nutzung dieses Whitepapers ist für Schulungszwecke in öffentlichen Schulen und Universitäten (nicht in privaten) sowie für kleine Unternehmen bis maximal 10 Personen gestattet. Jegliche Art von kommerzieller Nutzung oder Verbreitung ist ausdrücklich untersagt und wird strafrechtlich verfolgt! Ich möchte betonen, dass dieses Whitepaper ausschließlich für den Bildungsbereich bestimmt ist und nicht für Werbezwecke oder zur Gewinnerzielung genutzt werden darf. Ich behalte mir das Recht vor, rechtliche Schritte gegen die unautorisierte Nutzung dieses Whitepapers einzuleiten.
+Als Autor dieses Whitepapers lege ich (und hoffentlich bald wir) großen Wert auf den Schutz unserer Rechte und darauf, dass das Dokument nicht für unethische oder kommerzielle Zwecke genutzt wird. Die kostenlose Nutzung dieses Whitepapers ist nur in folgenden Kontexten gestattet:
+
+- Für den persönlichen Gebrauch und zur eigenen Weiterbildung
+- Für kleine Unternehmen mit maximal 10 Mitarbeitern
+- Für Schulungs- und Bildungszwecke in öffentlichen Schulen und Universitäten. Die Nutzung in privaten Bildungseinrichtungen ist "ausdrücklich" nicht gestattet!
+- Für Ministerien der Bundesrepublik Deutschland
+**Jegliche Form von kommerzieller Nutzung, Verbreitung, Verkauf, Werbung oder Zitieren von Textausschnitten für Blogbeiträge, Websites oder ähnliche Zwecke ist ausdrücklich untersagt. Wenn du aus diesem Whitepaper zitieren möchtest, musst du auf das Originaldokument verlinken und einen eigenen Beitrag verfassen**
+
+Ich behalte mir das Recht vor, rechtliche Schritte gegen die unautorisierte Nutzung dieses Whitepapers einzuleiten. Es ist mir ein großes Anliegen, zu betonen, dass dieses Whitepaper ausschließlich für Bildungszwecke bestimmt ist und nicht zur Gewinnerzielung genutzt werden darf. Jede Nutzung, die über diese Bestimmungen hinausgeht, wird strafrechtlich verfolgt.
 ### Copyright 
 bis jetzt:
 
