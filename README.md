@@ -2,10 +2,10 @@
 ###### copyright [S. Volkan Kücükbudak](https://github.com/volkansah)
 ## Inhalt
 - [Anlass für dieses Whitepaper](#Der-Anlass-für-dieses-Whitepaper)
-- [Wichtige Warnung für Sie](#Achtung)
-- [Behandelte Themen](#Themen)
-- [Eure Hilfe ist gefragt](#Hallo-Leute)
-- [Eure Unterstützung](#Unterstützung)
+- [wichtige Warnung für Sie](#Achtung)
+- [behandelte Themen](#Themen)
+- [eure Hilfe ist gefragt](#Hallo-Leute)
+- [eure Unterstützung](#Unterstützung)
 - [Lizenzbedingungen](#Lizenz)
 
 ### Herzlich willkommen zum AI-Whitpaper für eine sichere Implementierung von Künstlicher Intelligenz (KI). 
