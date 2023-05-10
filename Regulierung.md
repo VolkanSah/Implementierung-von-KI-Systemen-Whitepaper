@@ -37,4 +37,4 @@ Als Autor dieses Whitepapers ist es mir wichtig, meine Rechte zu schützen und s
 ### Credits
 [© Volkan Kücükbudak](https://github.com/volkansah)
 
-Orginal Quelle: https://github.com/VolkanSah/Implementierung-von-KI-Systemen-Whitepaper/blob/main/Regulierung.md
+Orginal Quelle:  https://github.com/VolkanSah/Implementierung-von-KI-Systemen-Whitepaper/blob/main/Regulierung.md
