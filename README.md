@@ -38,7 +38,7 @@ Als Autor dieses Whitepapers lege ich (und hoffentlich bald wir) großen Wert au
 
 - Für den persönlichen Gebrauch und zur eigenen Weiterbildung
 - Für kleine Unternehmen mit maximal 10 Mitarbeitern
-- Für Schulungs- und Bildungszwecke in öffentlichen Schulen und Universitäten. Die Nutzung in privaten Bildungseinrichtungen ist "ausdrücklich" nicht gestattet!
+- Für Schulungs- und Bildungszwecke in öffentlichen Schulen und Universitäten weltweit. Die Nutzung in privaten Bildungseinrichtungen ist "ausdrücklich" nicht gestattet!
 - Für Ministerien der Bundesrepublik Deutschland
 
 **Jegliche Form von kommerzieller Nutzung, Verbreitung, Verkauf, Werbung oder Zitieren von Textausschnitten für Blogbeiträge, Websites oder ähnliche Zwecke ist ausdrücklich untersagt. Wenn du aus diesem Whitepaper zitieren möchtest, musst du auf das Originaldokument verlinken und einen eigenen Beitrag verfassen**
