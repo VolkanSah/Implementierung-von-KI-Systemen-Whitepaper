@@ -1,9 +1,9 @@
 # Whitepaper: Implementierung von-KI Systemen
 ###### copyright [S. Volkan Kücükbudak](https://github.com/volkansah)
 ## Inhalt
-- [Der Anlass für dieses Whitepaper](#Der-Anlass-für-dieses-Whitepaper)
-- [Wichtige Warnung](#Achtung)
-- [Behandelte Themen](#Themen)
+- [Anlass für dieses Whitepaper](#Der-Anlass-für-dieses-Whitepaper)
+- [Wichtige Warnung für Sie](#Achtung)
+- [Behandelte Themenin diesem Whitepaper](#Themen)
 - [Eure Hilfe ist gefragt](#Hallo-Leute)
 - [Unterstützung](#Unterstützung)
 - [Lizenz](#Lizenz)
