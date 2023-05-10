@@ -25,7 +25,7 @@ Aktuell gibt es viele vermeintliche Sicherheitskonzepte für Unternehmen oder ko
 
 ## Hallo Leute,
 
-wenn ihr dieses Whitepaper nützlich findet und euer Wissen auch frei zur Verfügung stellen wollt, würde ich mich über eine Diskussion und eure Beiträge sehr freuen. Gerne könnt ihr mit mir gemeinsam dieses Whitepaper pflegen, um Betrügern keine Chance zu geben, unwissende Firmen oder Menschen auszunutzen. Eine ausführliche Erklärung dessen, was wir hier eigentlich alle auf Github und Co. machen, fehlt meiner Meinung nach schon lange. Lasst uns ein wenig mehr Gerechtigkeit in die Welt bringen, denn wir sehen, dass sich die Betrüger auf die KI-Technologie stürzen.
+Wenn ihr dieses Whitepaper nützlich findet und euer Wissen auch frei zur Verfügung stellen wollt, würde ich mich über eine Diskussion und eure Beiträge sehr freuen. Gerne könnt ihr mit mir gemeinsam dieses Whitepaper pflegen, um Betrügern keine Chance zu geben, unwissende Firmen oder Menschen auszunutzen. Eine ausführliche Erklärung dessen, was wir hier eigentlich alle auf Github und Co. machen, fehlt meiner Meinung nach schon lange. Lasst uns ein wenig mehr Gerechtigkeit in die Welt bringen, denn wir sehen, dass sich die Betrüger auf die KI-Technologie stürzen.
 
 Wir, die wir seit Jahren und Jahrzehnten immer wieder der freien Welt unsere Konzepte schenken, können diese erst dann ausnutzen, wenn wir darauf achten, dass unsere Accounts einen Mehrwert für unsere Gesellschaft haben. Auch wenn wir unsere Tricks und Tipps verraten, so gelangen die Menschen nicht an die Falschen und finden den Weg zu dir oder zu anderen, die ihr Wissen ehrlich teilen.
 
