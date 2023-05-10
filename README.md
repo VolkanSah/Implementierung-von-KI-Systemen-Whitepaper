@@ -40,6 +40,7 @@ Als Autor dieses Whitepapers lege ich (und hoffentlich bald wir) großen Wert au
 - Für kleine Unternehmen mit maximal 10 Mitarbeitern
 - Für Schulungs- und Bildungszwecke in öffentlichen Schulen und Universitäten. Die Nutzung in privaten Bildungseinrichtungen ist "ausdrücklich" nicht gestattet!
 - Für Ministerien der Bundesrepublik Deutschland
+
 **Jegliche Form von kommerzieller Nutzung, Verbreitung, Verkauf, Werbung oder Zitieren von Textausschnitten für Blogbeiträge, Websites oder ähnliche Zwecke ist ausdrücklich untersagt. Wenn du aus diesem Whitepaper zitieren möchtest, musst du auf das Originaldokument verlinken und einen eigenen Beitrag verfassen**
 
 Ich behalte mir das Recht vor, rechtliche Schritte gegen die unautorisierte Nutzung dieses Whitepapers einzuleiten. Es ist mir ein großes Anliegen, zu betonen, dass dieses Whitepaper ausschließlich für Bildungszwecke bestimmt ist und nicht zur Gewinnerzielung genutzt werden darf. Jede Nutzung, die über diese Bestimmungen hinausgeht, wird strafrechtlich verfolgt.
