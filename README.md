@@ -3,7 +3,7 @@
 ##### [Webview](https://volkansah.github.io/Implementierung-von-KI-Systemen-Whitepaper)
 Immer mehr Unternehmen nutzen KI, um ihre Anwendungen und Services zu verbessern. KI-Modelle wie ChatGPT von OpenAI sind eine der fortschrittlichsten KI-Technologien auf dem Markt und haben das Potenzial, unsere Art der Interaktion mit Maschinen und Computern grundlegend zu verändern. Die Implementierung von KI-Systemen birgt allerdings auch große Risiken für die Sicherheit sensibler Daten und Systeme. In diesem Whitepaper gebe ich Ihnen notwendige Best Practices an die Hand, um Ihre KI-Integration sicher zu gestalten und mögliche Risiken zu minimieren. Ich möchte betonen, dass KI ein beeindruckendes Werkzeug ist, das uns großes Potenzial bietet, wenn es verantwortungsvoll und sicher genutzt wird.
 
-[Whitepaper in English](https://volkansah.github.iom/Implementing-AI-Systems-Whitepaper)
+[Whitepaper in English](https://volkansah.github.io/Implementing-AI-Systems-Whitepaper)
 
 
 ## Inhalt
